@@ -24,9 +24,12 @@ function timeClock(){
     timeClock()
 
 $( ".saveBtn" ).click(function() {
-    );
+  var textContent= $(this).prev().val()
+    console.log( $(this).prev().val())
+    localStorage.setItem("description",textContent)
+    //hour
+    //description
   });
-    console.log( "ready!" );
 });
 
-localStorage.getItem
+localStorage.getItem("description")
