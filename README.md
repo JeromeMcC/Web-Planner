@@ -37,7 +37,7 @@ The following animation demonstrates the application functionality:
 
 # Final Product
 
-![Project mock-up image.](./Assests/dayPlanner.png)
+![Project mock-up image.](./Assets/dayPlanner.png)
 
 Link:[Live URL](https://jeromemcc.github.io/Web-Planner/)
 
