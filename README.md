@@ -39,7 +39,7 @@ The following animation demonstrates the application functionality:
 
 ![Project mock-up image.](./Assests/dayPlanner.png)
 
-Link:[Live URL]( )
+Link:[Live URL](https://jeromemcc.github.io/Web-Planner/)
 
 ## Grading Requirements
 
